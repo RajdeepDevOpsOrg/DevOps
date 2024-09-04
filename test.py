@@ -1,2 +1,3 @@
-print ("hello word")
+print ("hello world")
 print ("modified new line")
+print ("added second line")
