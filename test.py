@@ -1,6 +1,1 @@
 print ("hello world")
-print ("modified new line")
-print ("added second line")
-print("hi")
-print("I added from master branch")
-print ("added from linuxadmin branch")
